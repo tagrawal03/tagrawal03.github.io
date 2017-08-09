@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{projects.html}
+= Publications and Projects
+
+== Publications
+
+- *Taruna Agrawal*, [http://sail.usc.edu/~guptarah/ Rahul Gupta], [http://sail.usc.edu/shri.php Shrikanth Narayanan], [http://ceur-ws.org/Vol-1436/Paper23.pdf "Retrieving Social Images using Relevance Filtering and Diverse Selection"], /MediaEval Workshop, 2015/.
+
+== Projects
+
+*CamScrabble (Spring 2016)*
+Team Size:3\n
+Programming Language: C, Python, C\++ \n
+Designing and Implementing an automated scrabble game on Da Vinci Board using neutral networks and corner detection algorithm. For detection of grid coordinates algorithm has been designed which uses color filtering and morphological processing. Optical character recognition is done using neutral network. The aim of the project is to find all the new words formed on board and calculate total score for each user.
+
+*Relevance Filtering and Diverse Selection of Images (Summer 2015)*
+Team Size:2\n
+Programming Language: Matlab, Python \n 
+Designed a system which finds the relevant and diverse images present over social media based upon the given topic of interest. Selection was done based on visual features, textual features and flicker rank, by using KNN and clustering algorithm.
+
+*Digital Image Processing (Fall- 2015)*
+Team Size:1\n
+Programming language: C\++ \n
+Contour Modelling, Geometrical Image Modification, Edge Detection, Texture Analysis and Classification, Image Segmentation.
+
+*Graduate Student Admission Process (Summer-2015)*
+Team Size:1\n
+Programming language: C\n
+Developed Client-Server model which handles the communication between students, admission office and department.
+
+*Multimedia Search Engine (Spring-2015)*
+Team Size:3\n
+Programming language: C, Matlab\n
+GUI designing: QT creator\n
+Projects aims at developing a system which will take short video/audio as input from user and very quickly produces a list of videos (from a database) that either contains the queried short clip or contains similar queried short clips arranged in order of best matched clips.
+
+*ANT-Wireless LAN Coexistence (Mar 2013 - May 2013)*
+Team Size:1\n
+Programming language: C\n
+Project aimed at developing a system which assures that two wireless technologies, ANT and Wireless LAN, operating at 2.4Ghz can coexist on a single Qualcomm chipset and share the same antennae.Scope of the project also included debugging and maintenance of the project during my employment with Qualcomm.
+
+*Bluetooth- Tunneled direct link Setup (TDLS) Coexistence( Jan 2013 - Feb 2013)*
+Team Size:1\n
+Programming language: C\n
+Project aimed at developing a system which assures that Bluetooth and TDLS (Single channel) can coexist on a single Qualcomm chipset and share the same antennae.
+
+
